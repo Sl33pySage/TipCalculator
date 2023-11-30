@@ -17,3 +17,4 @@ percentage = percentage_num / 100 + 1
 result = (total / party) * percentage
 
 print(f"Each person should pay ${result:.2f}")
+
