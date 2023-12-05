@@ -19,4 +19,3 @@ result = (total / party) * percentage
 
 
 print(f"Each person should pay ${result:.2f}")
-
